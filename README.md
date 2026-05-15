@@ -1,4 +1,6 @@
-<img width="1785" height="483" alt="github-header-banner" src="https://github.com/user-attachments/assets/52a271db-f2a4-4355-b5b5-06c062774750" />
+<img width="1983" height="793" alt="ChatGPT Image May 15, 2026, 04_59_35 PM" src="https://github.com/user-attachments/assets/2958ae3f-f39a-4e0a-996b-529665083382" />
+
+Passionate MERN Stack Developer focused on building scalable and modern web applications.
 
 
 # 💫 About Me:
