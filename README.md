@@ -5,11 +5,16 @@ Passionate MERN Stack Developer focused on building scalable and modern web appl
 </h3>
 
 
-# 💫 About Me:
-## 👩‍💻 About Me<br><br>* - 🔭 Currently working on Next.js projects  
-- 🌱 Learning MongoDB & API development  
-- 👯 Open to Full Stack (MERN) collaborations  
-- 💬 Ask me about React, Next.js & JavaScript  
+## 👨‍💻 About Me
+
+- 🚀 I’m a passionate Frontend Developer focused on building modern, scalable web applications  
+- ⚛️ Currently working with React, Next.js & JavaScript  
+- 🧠 Exploring Backend development with Node.js, Express & MongoDB  
+- 🤝 Open to collaboration on Full Stack (MERN) projects  
+- 📚 Always learning new tools, clean architecture & best practices  
+- 💡 I love solving real-world problems through clean UI/UX
+
+ <h3 align="center">🎯 Goal: To become a highly skilled Full Stack Developer and contribute to impactful real-world projects</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/developermejbah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mezba-morsalin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mezbamorsalin.dev@gmail.com) 
