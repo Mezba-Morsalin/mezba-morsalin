@@ -1,4 +1,5 @@
-<img width="1983" height="793" alt="ChatGPT Image May 15, 2026, 04_59_35 PM" src="https://github.com/user-attachments/assets/2958ae3f-f39a-4e0a-996b-529665083382" />
+<img width="1983" height="793" alt="ChatGPT Image May 28, 2026, 01_29_45 AM" src="https://github.com/user-attachments/assets/048b52ef-d468-443f-bf34-848bb1e58f59" />
+
 
 <h3 align="center">
 Passionate MERN Stack Developer focused on building scalable and modern web applications.
