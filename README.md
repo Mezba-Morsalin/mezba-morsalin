@@ -73,19 +73,23 @@ Currently focused on strengthening my full-stack development skills and building
 
 ## 📌 Featured Projects
 
-### 🛒 Sun Cart
+### 🏥 MediCare Connect
 
-A modern full-stack e-commerce application built with Next.js, focused on a clean shopping experience and scalable architecture.
+A modern digital healthcare platform designed to connect patients with healthcare professionals and provide a streamlined healthcare experience.
 
-**Tech:** Next.js · React · JavaScript · MongoDB
+**Live:** https://medicare-connect-swart.vercel.app
+
+**Tech:** Next.js · React · JavaScript · MongoDB · Node.js
 
 ---
 
-### 💼 HireLoop
+### 🛒 Sun Cart
 
-A job-hunting platform designed to connect job seekers and recruiters with role-based functionality and modern authentication.
+A modern e-commerce web application featuring curated products, product discovery, promotional offers, product details, and a responsive shopping experience.
 
-**Tech:** Next.js · Node.js · Express.js · MongoDB · Better Auth
+**Live:** https://assignment-08-sun-cart-red.vercel.app/
+
+**Tech:** Next.js · React · JavaScript · MongoDB
 
 ---
 
@@ -95,17 +99,7 @@ A university-focused room booking platform designed to simplify room discovery a
 
 **Live:** https://study-nook-sigma.vercel.app/
 
-**Tech:** Next.js · React · JavaScript · MongoDB
-
----
-
-### 🚚 SwiftShip
-
-A modern courier and logistics platform concept with dedicated workflows for **Admin, Merchant, and Rider** users.
-
-**Tech:** Next.js · React · Node.js · Express.js · MongoDB
-
----
+**Tech:** Next.js · React · JavaScript · MongoDB · Node.js
 
 ## 🌱 Currently Learning
 
