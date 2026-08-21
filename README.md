@@ -1,3 +1,6 @@
+<img width="2159" height="728" alt="ChatGPT Image Aug 22, 2026, 02_46_11 AM" src="https://github.com/user-attachments/assets/11867929-2bba-4c50-876b-40d483af61cd" />
+
+
 # 👋 Hi, I'm Mezba Morsalin
 
 ### Full Stack Web Developer · MERN & Next.js
