@@ -4,11 +4,13 @@
 
 # 👋 Hi, I'm Mezba Morsalin
 
-### Full Stack Web Developer · MERN & Next.js
+### Frontend Developer · React & Next.js
 
-I build modern, responsive, and scalable web applications with a strong focus on **clean UI, maintainable code, authentication, and real-world functionality**.
+I’m a **Frontend Developer** focused on building modern, responsive, and user-friendly web applications with **JavaScript, React, and Next.js**.
 
-Currently focused on strengthening my full-stack development skills and building production-ready applications with **React, Next.js, Node.js, Express.js, and MongoDB**.
+I enjoy turning ideas into clean interfaces with a strong focus on **UI quality, reusable components, responsive design, performance, and maintainable code**.
+
+I also have hands-on experience with **Node.js, Express.js, MongoDB, and authentication**, which helps me understand and build complete web application workflows.
 
 <p align="center">
   <a href="https://mezba-portfolio.vercel.app">
@@ -26,12 +28,15 @@ Currently focused on strengthening my full-stack development skills and building
 
 ## 🚀 About Me
 
-* 💻 Building full-stack web applications with **JavaScript, React, Next.js, Node.js, and MongoDB**
-* ⚛️ Experienced with modern **React & Next.js App Router** development
-* 🔐 Exploring authentication, authorization, and secure application architecture
-* 🎨 Passionate about clean, responsive, and user-focused interfaces
-* 🧩 Focused on writing maintainable, reusable, and performant code
-* 🌱 Continuously improving my problem-solving and full-stack development skills
+* 💻 Building modern web applications with **JavaScript, React, and Next.js**
+* ⚛️ Working with **React and Next.js App Router**
+* 🎨 Focused on clean, responsive, and user-friendly interfaces
+* 🧩 Building reusable and maintainable UI components
+* ✨ Working with **Tailwind CSS, shadcn/ui, HeroUI, and Framer Motion**
+* 🔐 Experienced with authentication and authorization workflows
+* 🌐 Familiar with **Node.js, Express.js, and MongoDB**
+* 🚀 Deploying applications with **Vercel and Netlify**
+* 🌱 Continuously improving my frontend and full-stack development skills
 
 ---
 
@@ -46,7 +51,10 @@ Currently focused on strengthening my full-stack development skills and building
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
 ### Backend
@@ -54,13 +62,13 @@ Currently focused on strengthening my full-stack development skills and building
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=shield&logoColor=white" />
 </p>
 
-### Database
+### Database & Authentication
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=shield&logoColor=white" />
 </p>
 
 ### Tools & Platforms
@@ -68,9 +76,10 @@ Currently focused on strengthening my full-stack development skills and building
 <p>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
 ---
@@ -79,19 +88,19 @@ Currently focused on strengthening my full-stack development skills and building
 
 ### 🏥 MediCare Connect
 
-A modern digital healthcare platform designed to connect patients with healthcare professionals and provide a streamlined healthcare experience.
+A modern healthcare platform designed to provide a streamlined experience for patients and healthcare professionals.
 
-**Live:** https://medicare-connect-swart.vercel.app
+**Live:** [medicare-connect-swart.vercel.app](https://medicare-connect-swart.vercel.app)
 
-**Tech:** Next.js · React · JavaScript · MongoDB · Node.js
+**Tech:** Next.js · React · JavaScript · Node.js · Express.js · MongoDB
 
 ---
 
 ### 🛒 Sun Cart
 
-A modern e-commerce web application featuring curated products, product discovery, promotional offers, product details, and a responsive shopping experience.
+A modern e-commerce web application featuring product discovery, product details, promotional offers, and a responsive shopping experience.
 
-**Live:** https://assignment-08-sun-cart-red.vercel.app/
+**Live:** [assignment-08-sun-cart-red.vercel.app](https://sun-cart-red.vercel.app/)
 
 **Tech:** Next.js · React · JavaScript · MongoDB
 
@@ -101,29 +110,29 @@ A modern e-commerce web application featuring curated products, product discover
 
 A university-focused room booking platform designed to simplify room discovery and reservation.
 
-**Live:** https://study-nook-sigma.vercel.app/
+**Live:** [study-nook-sigma.vercel.app](https://study-nook-sigma.vercel.app/)
 
-**Tech:** Next.js · React · JavaScript · MongoDB · Node.js
+**Tech:** Next.js · React · JavaScript · Node.js · MongoDB
 
-## 🌱 Currently Learning
+---
+
+## 🎯 What I Focus On
 
 ```text
-JavaScript
-   ↓
-React
-   ↓
-Next.js
-   ↓
-Node.js + Express.js
-   ↓
-MongoDB
-   ↓
-Authentication & Authorization
-   ↓
-Scalable Full-Stack Applications
+Modern UI Development
+        ↓
+React & Next.js
+        ↓
+Reusable Components
+        ↓
+Responsive & Accessible Interfaces
+        ↓
+Authentication & API Integration
+        ↓
+Production-Ready Web Applications
 ```
 
-My current focus is going deeper into **full-stack architecture, authentication, backend development, databases, deployment, and production-ready application design**.
+I’m currently focused on improving my **frontend architecture, React development, Next.js, API integration, authentication, performance, and real-world application development**.
 
 ---
 
@@ -183,5 +192,5 @@ My current focus is going deeper into **full-stack architecture, authentication,
 </p>
 
 <p align="center">
-  <i>Code. Learn. Build. Repeat.</i>
+  <i>Build. Learn. Improve. Repeat.</i>
 </p>
