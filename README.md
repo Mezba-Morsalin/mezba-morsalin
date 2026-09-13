@@ -1,4 +1,5 @@
-<img width="2159" height="728" alt="ChatGPT Image Aug 22, 2026, 02_46_11 AM" src="https://github.com/user-attachments/assets/11867929-2bba-4c50-876b-40d483af61cd" />
+<img width="1918" height="820" alt="ChatGPT Image Sep 14, 2026, 01_42_14 AM" src="https://github.com/user-attachments/assets/bd410818-aab4-4d98-9a73-f189ffd520fe" />
+
 
 
 # 👋 Hi, I'm Mezba Morsalin
