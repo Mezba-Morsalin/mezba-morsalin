@@ -149,10 +149,15 @@ I’m currently focused on improving my **frontend architecture, React developme
 
 ---
 
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mezba-Morsalin&theme=discord&no-frame=true&margin-w=15&margin-h=15" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Mezba-Morsalin&theme=discord&no-frame=true&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -160,10 +165,14 @@ I’m currently focused on improving my **frontend architecture, React developme
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mezba-Morsalin&theme=react-dark&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mezba-Morsalin&theme=react-dark&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
+
 
 ## 🤝 Let's Connect
 
