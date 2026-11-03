@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mezba Morsalin
 
 <p align="center">
- <img width="1983" height="793" alt="Mezba Morsalin Frontend Developer Banner" src="https://github.com/user-attachments/assets/cd5d391f-f36d-4099-b4e3-724f7135069b" />
+<img width="1983" height="793" alt="Mezba Morsalin Frontend Developer Banner (1)" src="https://github.com/user-attachments/assets/3e04e3dd-bc20-4595-a663-ff2c12efe6c7" />
 </p>
 
 <p align="center">
