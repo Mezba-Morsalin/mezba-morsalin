@@ -117,17 +117,6 @@ A healthcare platform that helps patients discover doctors and manage appointmen
   </a>
 </p>
 
-### 🛒 Sun Cart
-
-An e-commerce web application featuring product discovery and a responsive shopping experience.
-
-**Tech Stack:** React · Next.js · JavaScript · Tailwind CSS
-
-<p>
-  <a href="https://assignment-08-sun-cart-red.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Sun Cart live demo" />
-  </a>
-</p>
 
 ### 📚 StudyNook
 
