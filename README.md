@@ -120,6 +120,13 @@ A room-booking platform designed to help university students explore accommodati
 
 <p align="center">
   <img
+    src="https://streak-stats.demolab.com/?user=Mezba-Morsalin&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mezba-Morsalin&theme=github_dark"
     height="180"
     alt="Repositories per language"
@@ -131,13 +138,19 @@ A room-booking platform designed to help university students explore accommodati
   />
 </p>
 
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Mezba-Morsalin&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Contribution Streak"
+    src="https://github-stats-extended.vercel.app/api?username=Mezba-Morsalin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4b9cd3&icon_color=4b9cd3&text_color=c9d1d9"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mezba-Morsalin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4b9cd3&text_color=c9d1d9"
+    height="180"
+    alt="Top Languages"
   />
 </p>
-
 
 ---
 
