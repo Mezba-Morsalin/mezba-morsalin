@@ -29,21 +29,33 @@
 
 ---
 
-## 💫 About Me
 
-I'm a **Frontend Developer** focused on building modern, responsive, and user-friendly web applications using **JavaScript, React, and Next.js**.
+## 👋 About Me
 
-I enjoy creating clean interfaces with reusable components, responsive layouts, and attention to UI quality and performance.
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p>
+        I'm <strong>Mezba Morsalin</strong>, a <strong>Frontend Developer</strong> from Bangladesh who loves turning ideas into modern, responsive, and user-friendly web applications.
+      </p>
 
-I also have hands-on experience with **Node.js, Express.js, MongoDB, REST APIs, and authentication**. I'm continuously improving my skills through real-world projects and learning new technologies to grow as a **Software Developer**.
+      <pre>
+<span>Name:</span> Mezba Morsalin
+<span>Role:</span> Frontend Developer
+<span>Location:</span> Bangladesh 🇧🇩
+<span>Currently Building:</span> Modern Web Applications
+<span>Learning:</span> TypeScript · Advanced Next.js · Node.js
+<span>Ask Me About:</span> React · Next.js · JavaScript · Tailwind CSS
+<span>Tech Interests:</span> UI/UX · REST APIs · Authentication
+<span>Goal:</span> Grow as a Software Developer 🌍
+      </pre>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img width="480" height="360" alt="Marketing Internet GIF by EscalaCity" src="https://github.com/user-attachments/assets/26d9e41f-9484-4b6a-90b0-187592948ae1" />
+    </td>
+  </tr>
+</table>
 
-- 💻 Building responsive web applications with React and Next.js
-- 🎨 Creating clean UIs with Tailwind CSS and modern component libraries
-- 🧩 Developing reusable and maintainable components
-- 🔐 Working with authentication and authorization
-- 🌐 Integrating REST APIs and databases
-- 🚀 Deploying projects with Vercel and Netlify
-- 🌱 Continuously learning and improving my development skills
 
 ---
 
@@ -101,9 +113,16 @@ A healthcare platform that helps patients discover doctors and manage appointmen
 </p>
 
 
+
 ### 📚 StudyNook
 
 A room-booking platform designed to help university students explore accommodation options and manage bookings.
+
+-  Browse available accommodation options
+-  Explore room details and facilities
+-  Manage room booking workflows
+-  Responsive design for desktop and mobile devices
+-  Clean and user-friendly interface
 
 **Tech Stack:** React · Next.js · JavaScript · Tailwind CSS
 
@@ -112,6 +131,7 @@ A room-booking platform designed to help university students explore accommodati
     <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="StudyNook live demo" />
   </a>
 </p>
+
 
 ---
 
