@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Mezba Morsalin
 
 <p align="center">
-<img width="2048" height="768" alt="Midnight Developer Workspace Banner" src="https://github.com/user-attachments/assets/854937c7-5a3a-4fda-84dd-774cb070d519" />
-
+<img width="2048" height="768" alt="Cyberpunk Developer Skills Room" src="https://github.com/user-attachments/assets/29889d31-cf20-497b-977e-297290f534e8" />
 </p>
 
 
