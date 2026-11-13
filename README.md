@@ -144,6 +144,7 @@ A room-booking platform designed to help university students explore accommodati
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Mezba-Morsalin&theme=github-dark-blue&hide_border=true"
+    width="90%"
     alt="GitHub Contribution Streak"
   />
 </p>
@@ -151,37 +152,36 @@ A room-booking platform designed to help university students explore accommodati
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mezba-Morsalin&theme=github_dark"
-    height="180"
+    width="44%"
     alt="Repositories per language"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mezba-Morsalin&theme=github_dark"
-    height="180"
+    width="44%"
     alt="Most committed languages"
   />
 </p>
 
-
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=Mezba-Morsalin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4b9cd3&icon_color=4b9cd3&text_color=c9d1d9"
-    height="180"
+    width="44%"
     alt="GitHub Statistics"
   />
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mezba-Morsalin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4b9cd3&text_color=c9d1d9"
-    height="180"
+    width="44%"
     alt="Top Languages"
   />
 </p>
 
-<div align="center">
+<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mezba-Morsalin&theme=github_dark&utcOffset=6"
+    width="80%"
     alt="Productive Time"
-    width="49%"
   />
-</div>
+</p>
 
 ---
 
