@@ -4,8 +4,11 @@
 <img width="1983" height="793" alt="Mezba Morsalin Frontend Developer Banner (1)" src="https://github.com/user-attachments/assets/3e04e3dd-bc20-4595-a663-ff2c12efe6c7" />
 </p>
 
+
 <p align="center">
-  <strong>Frontend Developer · React & Next.js</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=55&lines=Frontend+Developer;React+%26+Next.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Aspiring+Software+Developer" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -112,31 +115,65 @@ A room-booking platform designed to help university students explore accommodati
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mezba-Morsalin&show_icons=true&theme=github_dark&hide_border=true" height="180" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mezba-Morsalin&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Most used programming languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mezba-Morsalin&show_icons=true&theme=github_dark&hide_border=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mezba-Morsalin&layout=compact&theme=github_dark&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mezba-Morsalin&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mezba-Morsalin&theme=github_dark"
+    height="180"
+    alt="Repositories per language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mezba-Morsalin&theme=github_dark"
+    height="180"
+    alt="Most committed languages"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Mezba-Morsalin&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mezba-Morsalin&theme=darkhub&no-frame=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Mezba-Morsalin/Mezba-Morsalin/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Mezba-Morsalin/Mezba-Morsalin/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Mezba-Morsalin/Mezba-Morsalin/output/github-snake.svg"
+    />
+  </picture>
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mezba-Morsalin&theme=github-compact&hide_border=true" alt="GitHub contribution graph" />
+g src="https://github-readme-activity-graph.vercel.app/graph?username=Mezba-Morsalin&theme=github-compact&hide_border=true" alt="GitHub contribution graph" />
 </p>
 
 ---
