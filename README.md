@@ -120,19 +120,6 @@ A room-booking platform designed to help university students explore accommodati
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Mezba-Morsalin&show_icons=true&theme=github_dark&hide_border=true"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mezba-Morsalin&layout=compact&theme=github_dark&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mezba-Morsalin&theme=github_dark"
     height="180"
     alt="Repositories per language"
@@ -151,30 +138,6 @@ A room-booking platform designed to help university students explore accommodati
   />
 </p>
 
-
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Mezba-Morsalin/Mezba-Morsalin/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Mezba-Morsalin/Mezba-Morsalin/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Mezba-Morsalin/Mezba-Morsalin/output/github-snake.svg"
-    />
-  </picture>
-</p>
-g src="https://github-readme-activity-graph.vercel.app/graph?username=Mezba-Morsalin&theme=github-compact&hide_border=true" alt="GitHub contribution graph" />
-</p>
 
 ---
 
