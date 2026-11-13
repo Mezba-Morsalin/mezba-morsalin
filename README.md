@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Mezba Morsalin
 
 <p align="center">
-<img width="1983" height="793" alt="Mezba Morsalin Frontend Developer Banner (1)" src="https://github.com/user-attachments/assets/3e04e3dd-bc20-4595-a663-ff2c12efe6c7" />
+<img width="2048" height="768" alt="Midnight Developer Workspace Banner" src="https://github.com/user-attachments/assets/854937c7-5a3a-4fda-84dd-774cb070d519" />
+
 </p>
 
 
@@ -173,6 +174,14 @@ A room-booking platform designed to help university students explore accommodati
     alt="Top Languages"
   />
 </p>
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mezba-Morsalin&theme=github_dark&utcOffset=6"
+    alt="Productive Time"
+    width="49%"
+  />
+</div>
 
 ---
 
