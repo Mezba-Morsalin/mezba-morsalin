@@ -30,28 +30,30 @@
 ---
 
 
+
 ## 👋 About Me
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="55%" valign="middle">
       <p>
         I'm <strong>Mezba Morsalin</strong>, a <strong>Frontend Developer</strong> from Bangladesh who loves turning ideas into modern, responsive, and user-friendly web applications.
       </p>
-
-      <pre>
-<span>Name:</span> Mezba Morsalin
-<span>Role:</span> Frontend Developer
-<span>Location:</span> Bangladesh 🇧🇩
-<span>Currently Building:</span> Modern Web Applications
-<span>Learning:</span> TypeScript · Advanced Next.js · Node.js
-<span>Ask Me About:</span> React · Next.js · JavaScript · Tailwind CSS
-<span>Tech Interests:</span> UI/UX · REST APIs · Authentication
-<span>Goal:</span> Grow as a Software Developer 🌍
-      </pre>
+      <pre><code>Name:              Mezba Morsalin
+Role:              Frontend Developer
+Location:          Bangladesh 🇧🇩
+Currently Building: Modern Web Applications
+Learning:          TypeScript · Advanced Next.js · Node.js
+Ask Me About:      React · Next.js · JavaScript
+Tech Interests:    UI/UX · REST APIs · Authentication
+Goal:              Grow as a Software Developer 🌍</code></pre>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img width="480" height="360" alt="Marketing Internet GIF by EscalaCity" src="https://github.com/user-attachments/assets/26d9e41f-9484-4b6a-90b0-187592948ae1" />
+    <td width="45%" align="center" valign="middle">
+      <img
+        src="https://github.com/user-attachments/assets/26d9e41f-9484-4b6a-90b0-187592948ae1"
+        width="100%"
+        alt="Developer working at computer"
+      />
     </td>
   </tr>
 </table>
