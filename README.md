@@ -79,7 +79,8 @@ Goal:              Grow as a Software Developer 🌍</code></pre>
 ### 🗄️ Database & Authentication
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&perline=8" />
+  <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
 
 ### 🔧 Tools & Platforms
